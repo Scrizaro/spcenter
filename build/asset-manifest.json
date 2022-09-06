@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1ed7c04.css",
+    "main.js": "/static/js/main.8033c6ad.js",
+    "static/media/contact.png": "/static/media/contact.b1a89856005677d25122.png",
+    "static/media/about1.jpeg": "/static/media/about1.7b0f998d4d0fc7a568da.jpeg",
+    "static/media/about2.jpeg": "/static/media/about2.1e5646d8cd51923adff3.jpeg",
+    "static/media/about3.jpeg": "/static/media/about3.ec5625c321f180a247e8.jpeg",
+    "static/media/logo.png": "/static/media/logo.e7b3212c241750870fdf.png",
+    "static/media/about4.jpeg": "/static/media/about4.660843a9b0b855a6efa6.jpeg",
+    "static/media/aboutMain.jpg": "/static/media/aboutMain.cf2b6da7f53501e2f460.jpg",
+    "static/media/taro.jpeg": "/static/media/taro.f0ad6cc170113f2973dc.jpeg",
+    "static/media/consult.jpg": "/static/media/consult.ba72500bb11df7295076.jpg",
+    "static/media/duhpsy.jpg": "/static/media/duhpsy.c4f770764cca0dd072fb.jpg",
+    "static/media/subpsy.jpg": "/static/media/subpsy.16040a3d7d8af0248a90.jpg",
+    "static/media/top-img.jpeg": "/static/media/top-img.6fb5f9f9a6769e3c8ac5.jpeg",
+    "index.html": "/index.html",
+    "main.c1ed7c04.css.map": "/static/css/main.c1ed7c04.css.map",
+    "main.8033c6ad.js.map": "/static/js/main.8033c6ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ed7c04.css",
+    "static/js/main.8033c6ad.js"
+  ]
+}
